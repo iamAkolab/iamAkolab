@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamAkolab
-- 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning Python Automation
+- 👀 I’m skilled in Python for Machine Learning
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Open source projects in machine learning
 - 📫 How to reach me on Twitter @iam_akolab
 
