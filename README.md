@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamAkolab.
-- 👀 I’m skilled in Java, Python and React
+- 👀 I’m skilled in Java & Python.
 - 🌱 I’m currently learning Advanced Java for Back-end
 - 💞️ I’m looking to collaborate on Open source projects.
 - 📫 How to reach me on Twitter @iam_akolab
