@@ -5,24 +5,27 @@
 - 💞️ I’m looking to collaborate on Open source projects.
 - 📫 How to reach me on Twitter @iam_akolab
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamAkolab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=iamAkolab&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamAkolab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iamAkolab&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=iamAkolab&icon=0&color=0)](https://visitcount.itsvg.in)
-
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iamAkolab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=iamAkolab&theme=dark&hide_border=false)<br/>
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=iamAkolab&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamAkolab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=iamAkolab&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!---
 iamAkolab/iamAkolab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
