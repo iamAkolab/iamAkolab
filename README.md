@@ -3,7 +3,7 @@
 - 👀 I’m skilled in Java & Python.
 - 🌱 I’m currently learning Advanced Java for Back-end
 - 💞️ I’m looking to collaborate on Open source projects.
-- 📫 How to reach me on Twitter @iam_akolab
+- 📫 How to reach me on Twitter @iam_akolab.
 
 # 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
