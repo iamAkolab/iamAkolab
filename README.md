@@ -15,7 +15,7 @@
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamAkolab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=iamAkolab&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=iamAkolab&theme=radical&hide_border=false)<br/>
 
 
