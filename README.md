@@ -27,8 +27,10 @@
 ### 🐍 My Contributions : 🐍
 ![](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg)
 
+### 📍Visitor Count :
+![](https://komarev.com/ghpvc/?username=iamAkolab&color=green)
 ---
-![](https://visitcount.itsvg.in/api?id=iamAkolab&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!---
 iamAkolab/iamAkolab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
