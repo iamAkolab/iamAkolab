@@ -23,13 +23,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamAkolab&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=iamAkolab&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=iamAkolab&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 🐍 My Contributions : 🐍
 ![](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg)
 
-
+---
+![](https://visitcount.itsvg.in/api?id=iamAkolab&icon=0&color=0)](https://visitcount.itsvg.in)
 <!---
 iamAkolab/iamAkolab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
