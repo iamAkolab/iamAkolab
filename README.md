@@ -24,6 +24,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=iamAkolab&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 
+### 📈 Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=iamAkolab&theme=react-dark)
+
 ### 🐍 My Contributions : 🐍
 ![](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg)
 
